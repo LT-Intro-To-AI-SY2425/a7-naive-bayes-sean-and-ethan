@@ -1,6 +1,7 @@
 import math, os, pickle, re
 from typing import Tuple, List, Dict
 
+# Ethan Wynn, Sean Leahy
 
 class BayesClassifier:
     """A simple BayesClassifier implementation
